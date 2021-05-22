@@ -2,10 +2,10 @@
 `Lirik Lagu Generator` merupakan aplikasi AI yang dapat membuat lirik lagu bahasa indonesia menggunakan deep learning. Pada project ini saya menggunakan dataset hasil [scrapping](https://github.com/share424/lyric-scrapper) dari beberapa situs penyedia lirik lagu.
 
 ## Dataset
-Dataset dapat didownload [disini](https://github.com/share424/lyric-scrapper/releases/download/1/lyric_bahasa.json)
+Dataset dapat didownload [disini](https://github.com/share424/lyric-generator/releases/download/v1.0/lyric_bahasa.json)
 
 ## Pretrain Model
-Pretrain model dapat didownload [disini](https://github.com/share424/lyric-scrapper/releases/download/1/checkpoint.h5)
+Pretrain model dapat didownload [disini](https://github.com/share424/lyric-generator/releases/download/v1.0/checkpoint.h5)
 
 ## Video Tutorial
 Video tutorial cara pembuatanya dapat dilihat [disini](https://youtu.be/7IaEfd1ze2I)
